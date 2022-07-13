@@ -33,4 +33,7 @@ override.tf.json
 .terraformrc
 terraform.rc
 
+# Local development files to ignore
 **/.DS_Store
+*.local
+output/
